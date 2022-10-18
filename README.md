@@ -1,4 +1,4 @@
-# Calculator - Java
+# Calculator
 
 Calculator developed with Java Swing.
 
