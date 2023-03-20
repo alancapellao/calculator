@@ -1,6 +1,6 @@
 # Calculator
 
-Calculator for windows is software used to perform desktop math calculations. It can perform basic arithmetic operations such as addition, subtraction, multiplication and division. 
+Calculator was developed to be a desktop calculator that can perform basic arithmetic operations such as addition, subtraction, multiplication and division.
 
 Developed in Java.
 
