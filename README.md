@@ -1,6 +1,6 @@
 # Calculator
 
-Calculator was developed to be a desktop calculator that can perform basic arithmetic operations such as addition, subtraction, multiplication and division.
+Calculator was developed to be a calculator desktop that can perform basic arithmetic operations such as addition, subtraction, multiplication and division.
 
 Developed in Java.
 
